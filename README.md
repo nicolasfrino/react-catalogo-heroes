@@ -1,2 +1,2 @@
 # Pagina aun no finalizada
-PAgina Publicada: https://nicolasfrino.github.io/react-catalogo-heroes/
+Pagina Publicada: https://nicolasfrino.github.io/react-catalogo-heroes/
